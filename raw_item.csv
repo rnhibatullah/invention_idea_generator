@@ -1,0 +1,10 @@
+//name,cost,novelty,size,skill,viable
+//cost :1-15
+//novelty : 1-10
+//size 1-5
+//skill: 1-30
+//viable : 1-40
+
+Paper,1,2,1,4,5
+rubikscube, 2,3,2,2,1
+smartphone, 10,8,1,23,34
